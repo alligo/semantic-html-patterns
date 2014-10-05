@@ -4,6 +4,12 @@ Coleção de referências de terceiros e estratégias próprias -- e testadas --
 focadas em resolver problemas comuns de acessibilidade e interoperabilidade
 para mecanismos de busca e ferramentas de extração de dados em geral
 
+## Pull requests
+1. Use estilo de código padrão do Google - https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
+1.1 Isso significa usar tabulação de dois espaços
+2. Envie para o branch _definir nome do branch aqui mais tarde_
+3. Na dúvida, entre em contato com mantenedores
+
 ## Mantenedores
 Entre em contato com Emerson Rocha Luiz (@fititnt) e Tasso Evangelista 
 (@tassoevan).
