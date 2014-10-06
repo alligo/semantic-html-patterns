@@ -11,8 +11,8 @@ para mecanismos de busca e ferramentas de extração de dados em geral.
 Leia [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Mantenedores
-Entre em contato com Emerson Rocha Luiz (@fititnt) e Tasso Evangelista
-(@tassoevan).
+Entre em contato com Emerson Rocha Luiz ([@fititnt](http://twitter.com/fititnt))
+e Tasso Evangelista ([@tassoevan](http://twitter.com/tassoevan)).
 
 ## Motivação
 
@@ -23,9 +23,10 @@ na [Conferência Web.br 2014](http://conferenciaweb.w3c.br/) é um dos
 motivadores. Os autores propõem melhorias na apresentação de informações em
 interfaces web.
 
-A partir de uma conversa com Doug Schepers (@shepazu) foi formulada a hipótese
-de que disparidades na apresentação da informação em leitores de tela se devem à
-falta de definição de padrões específicos para estas ferramentas.
+A partir de uma conversa com Doug Schepers ([@shepazu](http://twitter.com/shepazu))
+foi formulada a hipótese de que disparidades na apresentação da informação em
+leitores de tela se devem à falta de definição de padrões específicos para estas
+ferramentas.
 
 ### 2. Artigo em site com foco em AI/UX - Outline
 
