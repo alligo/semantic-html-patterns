@@ -1,7 +1,7 @@
-Ferramentas para analise de implementação
+Ferramentas para análise de implementação
 ===============================================================================
 
-## Analise básica de sintaxe
+## Análise básica de sintaxe
 Ferramentas que ajudam a detectar erros na formatação de documento
 
 - http://validator.w3.org - W3C Markup Validation Service (HTML and XHTML, SVG 
@@ -14,7 +14,7 @@ _Nota: CSS está apenas ligado a aparência do documento, e recomenda-se
 aos desenvolvedores dar mais importância a validação de sintaxe e em especial
 o significado dos documentos que contém informação em si._
 
-## Analise de significado
+## Análise de significado
 Ferramentas que ajudam a descobrir o *significado* de um documento, não 
 apenas se a sintaxe dele é válida
 
@@ -34,3 +34,9 @@ apenas se a sintaxe dele é válida
 - http://validator.w3.org/checklink - Link Checker W3C
 
 ## Análise de acessibilidade
+
+- http://wave.webaim.org/ - WAVE Web Accessibility Tool
+- http://achecker.ca/checker/index.php - Web Accessibility Checker
+- http://www.contentquality.com - HiSoftware® Cynthia Says™ , (Section 508, WCAG 2.0)
+- http://www.dasilva.org.br - Da Silva, Governo Brasileiro
+- http://www.acessibilidade.gov.pt/accessmonitor/ - AccessMonitor

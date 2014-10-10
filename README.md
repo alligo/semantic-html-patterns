@@ -10,7 +10,7 @@ para mecanismos de busca e ferramentas de extração de dados em geral.
 Para ver links para documentações técnicas de referências, como guias de boas
 práticas, veja [referencias.md](referencias.md)
 
-## Ferramentas para analise de implementação
+## Ferramentas para análise de implementação
 Para saber ferramentas pertinentes que ajudam a analisar implementação, tanto
  online como _off-line_ veja [ferramentas.md](ferramentas.md)
 
