@@ -1,6 +1,8 @@
 Padrões para HTML Semântico - Estrutural - Outline - HTML5
 ===============================================================================
 
+*Nota: este exemplo de outline para HTML5 não está pronto*
+
 ## Problema
 Como fazer a estrutura hierárquica da informação contida em um documento HTML5?
 

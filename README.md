@@ -1,4 +1,4 @@
-Semantic HTML Patterns - Padrões para HTML Semântico
+Padrões para HTML Semântico
 ===============================================================================
 https://github.com/alligo/semantic-html-patterns
 
@@ -6,12 +6,20 @@ Coleção de referências de terceiros e estratégias próprias -- e testadas --
 focadas em resolver problemas comuns de acessibilidade e interoperabilidade
 para mecanismos de busca e ferramentas de extração de dados em geral.
 
+## Documentações técnicas pertinentes
+Para ver links para documentações técnicas de referências, como guias de boas
+práticas, veja [referencias.md](referencias.md)
+
+## Ferramentas para analise de implementação
+Para saber ferramentas pertinentes que ajudam a analisar implementação, tanto
+ online como _off-line_ veja [ferramentas.md](ferramentas.md)
+
 ## Contribuições
 
 Leia [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Mantenedores
-Entre em contato com Emerson Rocha Luiz ([@fititnt](http://twitter.com/fititnt))
+Emerson Rocha Luiz ([@fititnt](http://twitter.com/fititnt))
 e Tasso Evangelista ([@tassoevan](http://twitter.com/tassoevan)).
 
 ## Motivação
