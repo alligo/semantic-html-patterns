@@ -1,0 +1,47 @@
+
+/* Elementos seccionantes */
+article, aside, section, nav {
+	border: 3px dotted black;
+	padding: 10px;
+}
+/* Sectioning roots */
+body, blockquote, details, fieldset, figure, td {
+	
+}
+article::before {
+	content: "<article>";
+}
+aside::before {
+	content: "<aside>";
+}
+section::before {
+	content: "<section>";
+}
+nav::before {
+	content: "<nav>";
+}
+h1:before, h2:before, h3:before, h4:before, h5:before, h6:before {
+	color: red;
+}
+h1:after, h2:after, h3:after, h4:after, h5:after, h6:after {
+	color: red;
+	content: ")";
+}
+h1:before {
+	content: "(h1: ";
+}
+h2:before {
+	content: "(h2: ";
+}
+h3:before {
+	content: "(h3: ";
+}
+h4:before {
+	content: "(h4: ";
+}
+h5:before {
+	content: "(h5: ";
+}
+h6:before {
+	content: "(h6: ";
+}
